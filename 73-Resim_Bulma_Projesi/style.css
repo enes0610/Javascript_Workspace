@@ -1,0 +1,68 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 48px;
+  color: #333;
+  text-align: center;
+  margin-top: 100px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  letter-spacing: 1px;
+  margin-bottom: 25px;
+}
+
+.form-wrapper{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 20px 0;
+}
+
+#form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#searchInput{
+  width: 75%;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#searchButton{
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 25px;
+  background-color: #456585;
+  color: white;
+}
+
+#clearButton{
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #701010;
+  color: white;
+}
+
+.imagelist-wrapper{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.imagelist-wrapper .card{
+  margin: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  box-shadow: 3px 5px 8px grey;
+}

@@ -1,0 +1,6 @@
+1- KURULUM
+
+LİNK: https://freecurrencyapi.com/
+
+* Freecurrencyapi giriş yapın
+* Default Key = APİ Key

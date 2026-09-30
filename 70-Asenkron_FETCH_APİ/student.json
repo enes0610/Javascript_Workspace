@@ -1,0 +1,26 @@
+[
+    {
+        "id" :5,
+        "firstname" :"AYŞE",
+        "lastname" :"GÜL",
+        "age" :50
+    },
+    {
+        "id" :6,
+        "firstname" :"VEDAT",
+        "lastname" :"GÜL",
+        "age" :60
+    },
+    {
+        "id" :7,
+        "firstname" :"ZEYNEP",
+        "lastname" :"GÜL",
+        "age" :35
+    },
+    {
+        "id" :8,
+        "firstname" :"BİLAL",
+        "lastname" :"GÜL",
+        "age" :45
+    }
+]

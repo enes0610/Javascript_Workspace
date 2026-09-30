@@ -1,0 +1,42 @@
+[
+    {
+        "id" :1,
+        "firstname" :"ENES",
+        "lastname" :"OĞUZ"
+    },
+    {
+        "id" :2,
+        "firstname" :"AHMET",
+        "lastname" :"OĞUZ"
+    },
+    {
+        "id" :3,
+        "firstname" :"EMİR",
+        "lastname" :"OĞUZ"
+    },
+    {
+        "id" :4,
+        "firstname" :"ARİF",
+        "lastname" :"OĞUZ"
+    },
+    {
+        "id" :5,
+        "firstname" :"AYŞE",
+        "lastname" :"GÜL"
+    },
+    {
+        "id" :6,
+        "firstname" :"VEDAT",
+        "lastname" :"GÜL"
+    },
+    {
+        "id" :7,
+        "firstname" :"ZEYNEP",
+        "lastname" :"GÜL"
+    },
+    {
+        "id" :8,
+        "firstname" :"BİLAL",
+        "lastname" :"GÜL"
+    }
+]

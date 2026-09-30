@@ -1,0 +1,8 @@
+1- KURULUM
+
+LİNK: https://unsplash.com/developers
+
+* Unsplash Profilinize giriş yapınız. 
+* Your Apps'a tıklayın.
+* Yeni bir proje oluşturun.
+* Access Key = APİ Anahtarıdır.
